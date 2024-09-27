@@ -4,4 +4,3 @@ env
 test_db.db
 *.db
 *.vscode
-*.md
